@@ -8,7 +8,7 @@ AI/Software Engineer | Python · Flask · Django · RAG . LangChain | LLMs · ML
 
 ## 👩🏻‍💻 About Me
 
-I am an AI and Backend Engineer with experience designing and deploying intelligent systems that solve real-world problems. I focus on turning AI models into production-ready applications that are scalable, reliable, and impactful. My work includes high-accuracy document processing, multilingual search systems, and AI-powered platforms that improve engagement and efficiency.
+I am an AI with experience designing and deploying intelligent systems that solve real-world problems. I focus on turning AI models into production-ready applications that are scalable, reliable, and impactful. My work includes high-accuracy document processing, multilingual search systems, and AI-powered platforms that improve engagement and efficiency.
 
 <!-- 
 ---
