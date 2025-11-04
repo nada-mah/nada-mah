@@ -1,4 +1,6 @@
-<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/f7b808e9-cea3-4381-a176-f10c5e5558d5" />
+<!-- <img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/f7b808e9-cea3-4381-a176-f10c5e5558d5" /> -->
+<img width="1584" height="396" alt="Navy Blue Geometric Technology LinkedIn Banner (2)" src="https://github.com/user-attachments/assets/07e559ac-560c-4fc0-9349-d42d8ba7aba6" />
+
 
 ## Hi there 👋
 
